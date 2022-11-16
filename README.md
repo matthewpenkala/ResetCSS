@@ -6,7 +6,7 @@ Reset CSS Stylesheet to reduce browser inconsistencies.
 
 #### From Github Server
 ```
-<link type="text/css" rel="stylesheet" href="https://raw.githubusercontent.com/matthewpenkala/ResetCSS/master/reset.min.css">
+<link type="text/css" rel="stylesheet" href="https://matthewpenkala.github.io/ResetCSS/reset.min.css">
 ```
 
 #### Local
@@ -14,6 +14,7 @@ Download the **reset.min.css** file and paste in your project location.
 ```
 <link type="text/css" rel="stylesheet" href="reset.min.css">
 ```
+
 
 ## Effective and influential people
 
